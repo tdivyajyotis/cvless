@@ -4,7 +4,6 @@ baseurl: ""
 url: ""
 
 exclude:
-  - demo/
   - cvless.gemspec
   - LICENSE
   - README.md
